@@ -44,6 +44,7 @@ If you don't finish this during your scheduled lab time, that's ok! But we encou
 
 Edit for Lab Section 020L:
 - 
+Hey yall here is my edit
 
 Edit for Lab Section 021L:
 -
@@ -53,3 +54,4 @@ Edit for Lab Section 030L:
 
 Edit for Lab Section 031L:
 -
+
